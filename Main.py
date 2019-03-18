@@ -1,4 +1,5 @@
 from tkinter import *
+from tkintertable import TableCanvas, TableModel
 
 top = Tk()
 
