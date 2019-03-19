@@ -1,0 +1,831 @@
+Hockey,14/06/2018,7:00:00,
+Camioneta,,7:30:00,Lito
+Hockey,,9:00,
+Almuerzo,,12:30:00,
+Hockey,,13:30:00,
+Salida,,16:00:00,
+Hockey,15/06/2017,7:00:00,
+Camioneta,,8:00:00,Cristian
+Hockey,,10:30:00,
+Camioneta,,12:00,Juan
+Hockey,,13:00:00,
+Almuerzo,,13:00:00,
+Hockey,,14:00:00,
+Camioneta,,14:30:00,Alidot y Tomi
+Hockey,,16:45:00,
+Salida,,16:45:00,
+Hockey,18/06/2017,7:00:00,
+Camioneta,,9:00:00,rejas y kb gom
+Hockey,,10:00:00,
+Camioneta,,11:30:00,Cruz del Sur
+Hockey,,12:30:00,
+Almuerzo,,12:30,
+hockey,,13:30:00,
+Camioneta,,14:00:00,kb Gom
+hockey,,16:15:00,
+Salida,,16:30:00,
+Hockey,19/06/2017,7:00:00,
+Camioneta,,8:30:00,Lito
+Hockey,,10:00:00,
+Camioneta,,11:45:00,Juan
+Hockey,,12:30:00,
+Almuerzo,,12:30:00,
+Hockey,,13:30,
+Camioneta,,15:15,Rejas
+Hockey,,16:15:00,
+Salida,,16:15:00,
+Hockey,26/06/2018,8:45:00,
+Camioneta,,8:45:00,Brio
+Hockey,,10:15,
+Camioneta,,10:15:00,Fit Point
+Hockey,,11:35:00,
+Almuerzo,,11:35:00,
+Hockey,,13:15:00,
+Camioneta,,13:15:00,Willy y Tomi
+Hockey,,16:00:00,
+Salida,,16:00:00,
+Hockey,27/06/2018,8:35:00,
+Camioneta,,8:35:00,Lito
+Hockey,,9:45:00,
+Camioneta,,9:45:00,Lito
+Hockey,,11:00:00,
+Almuerzo,,11:00:00,
+Salida,,11:00,
+Hockey,28/06/2018,9:00:00,
+Camioneta,,9:00:00,"Colegio, Nassau y Tempo"
+Hockey,,13:45:00,
+Camioneta,,13:45:00,Kg Gom
+Hockey,,16:30:00,
+Salida,,16:30,
+Hockey,29/06/2018,9:30:00,
+Camioneta,,9:30:00,Pintura Rejas y Cruz del Sur
+Hockey,,10:30:00,
+Almuerzo,,10:30:00,
+Hockey,,11:15:00,
+Camioneta,,11:15:00,"Lolita, Alidot y Magenta"
+Hockey,,13:45:00,
+Salida,,13:45:00,
+Hockey,03/07/2018,9:15:00,
+Camioneta,,9:15:00,"Flassh, Sumunistros y Pintura Rejas"
+Hockey,,10:15:00,
+Camioneta,,10:15:00,Kadur
+Hockey,,11:45:00,
+Camioneta,,11:45:00,Jdh
+Hockey,,14:15:00,
+Camioneta,,14:15,
+Hockey,,16:45:00,
+Salida,,16:45:00,
+Hockey,05/07/2018,11:00:00,
+Camioneta,,11:00:00,"Cintas, Brio y Kb Gom"
+Hockey,,13:05:00,
+Salida,,13:05:00,
+Hockey,06/07/2018,10:45:00,
+Camioneta,,10:45:00,La Dorita y Kadur
+Hockey,,13:45:00,
+Almuerzo,,13:45:00,
+Hockey,,14:00:00,
+Camioneta,,14:00,Willy
+Hockey,,15:45:00,
+Salida,,15:45:00,
+Hockey,10/7/2018,8:45:00,
+Camioneta,,8:45:00,Sole y Laporta
+Hockey,,13:15:00,
+Salida,,13:15:00,
+Hockey,12/07/2018,13:30:00,
+Camioneta,,13:30:00,Atletic Service
+Hockey,,16:30:00,
+Salida,,16:30:00,
+Hockey,13/07/2018,9:00:00,
+Camioneta,,9:00:00,
+Hockey,,12:15:00,
+Almuerzo,,12:15:00,
+Hockey,,12:30,
+Camioneta,,12:30:00,"Alidot, Tomi y Entrega a Domicilio"
+Hockey,,16:00:00,
+Salida,,16:00:00,
+Hockey,18/07/2018,7:30:00,
+Camioneta,,7:30:00,La Porta y Sole
+Hockey,,12:45:00,
+Almuerzo,,12:45:00,
+Hockey,,14:00:00,
+Camioneta,,14:00:00,Lito
+Hockey,,15:30:00,
+Salida,,15:30,
+Hockey,19/07/2018,14:00:00,
+Camioneta,,14:00:00,"Solplast, Limpieza Canning"
+Hockey,,16:00:00,
+Camioneta,,16:00:00,
+Hockey,,18:00:00,
+Salida,,18:00:00,
+Hockey,20/07/2018,9:30:00,
+Camioneta,,9:30,Atletic
+Hockey,,14:30,
+Camioneta,,14:45:00,
+Hockey,,15:30:00,
+Salida,,15:30:00,
+Hockey,23/07/2018,9:15,
+Camioneta,,9:15:00,Cristian 
+Hockey,,11:15:00,
+Camioneta,,11:30:00,"Caseros, Rejas y Cruz del Sur"
+Hockey,,13:15:00,
+Salida,,13:15:00,
+Hockey,,9:30:00,
+Camioneta,,9:30:00,Atletic
+Hockey,,14:00:00,
+Salida,,14:00:00,
+Hockey,25/07/2018,11:15:00,
+Camioneta,,11:15:00,"Foil, Atletic y Deportes Once"
+Hockey,,16:30:00,
+Salida,,16:30:00,
+Hockey,26/07/2018,9:45:00,
+Camioneta,,9:45:00,Turby y Flassh
+Hockey,,11:00:00,
+Almuerzo,,11:00:00,
+Hockey,,14:00:00,
+Camioneta,,14:00:00,Brio y Caseros
+Hockey,,15:45:00,
+Salida,,15:45:00,
+Hockey,,16:00:00,
+Camioneta,,16:00:00,
+Hockey,,17:00,
+Salida,,17:00:00,
+Hockey,27/07/2018,10:15:00,
+Camioneta,,10:15:00,Flassh y Sole
+Hockey,,12:30:00,
+Camioneta,,12:30:00,Willy y Tomi
+Hockey,,15:15:00,
+Salida,,15:15:00,
+Hockey,31/07/2018,10:00:00,
+Camioneta,,10:00:00,"Camioneta, Cliche y Deportes Full"
+Hockey,,15:00:00,
+Salida,,15:00:00,
+Hockey,2/8/2018,9:00:00,
+Camioneta,,9:00:00,Deportes 11 y Drial
+Hockey,,13:00:00,
+Salida,,13:00:00,
+Hockey,03/08,10:30:00,
+Camioneta,,10:30:00,"Eneeme, Carlitos, Luz"
+Hockey,,13:30:00,
+Almuerzo,,13:30:00,
+Hockey,,14:00:00,
+Camioneta,,14:00:00,Tomi
+Hockey,,16:00:00,
+Salida,,16:00:00,
+Hockey,06/08/2018,8:00:00,
+Camioneta,,8:00:00,Lito
+Hockey,,9:00:00,
+Camioneta,,9:15,Flassh
+Hockey,,12:45:00,
+Salida,,12:45:00,
+Hockey,7/8/2018,14:30:00,
+Camioneta,,14:30:00,"Tornillos, Lolita y Sendbox"
+Hockey,,16:30:00,
+Salida,,16:30:00,
+Hockey,08/08/2018,9:15:00,
+Camioneta,,9:15:00,"Textil Rioja, Drial, Xeltic"
+Hockey,,12:30:00,
+Almuerzo,,12:30:00,
+Hockey,,15:00:00,
+Camioneta,,15:00:00,"Cabezones, Rejas y Sendbox"
+Salida,,16:30:00,
+Hockey,09/08/2018,10:00:00,
+Camioneta,,10:00:00,Pablo y Cristian
+Hockey,,12:30:00,
+Salida,,12:30,
+Hockey,10/08,10:30,
+Camioneta,,10:30:00,Cristian
+Hockey,,13:00,
+Almuerzo,,13:00:00,
+Hockey,,14:00:00,
+Camioneta,,14:00:00,"Alidot, Colegio y Tomi"
+Hockey,,16:45,
+Salida,,16:45:00,
+Hockey,13/08/2018,9:45:00,
+Camioneta,,9:45:00,"Fabrika, Brio, Industrias Mayas"
+Hockey,,10:15:00,
+Camioneta,,10:15:00,"Atletic, Tempo "
+Hockey,,15:00:00,
+Almuerzo,,15:00:00,
+Hockey,,16:00:00,
+Camioneta,,17:00:00,Encomiendas
+Salida,,17:00,
+Hockey,14/08/2018,11:15:00,
+Camioneta,,11:15:00,"Schuster, Salasem y Transporte"
+Hockey,,15:30,
+Camioneta,,15:30:00,Encomiendas y Cruz del Sur
+Hockey,,17:00:00,
+Salida,,17:00:00,
+Hockey,15/08/2018,9:15:00,
+Camioneta,,9:15:00,Buspack
+Hockey,,13:30:00,
+Almuerzo,,13:30:00,
+Hockey,,14:00:00,
+Camioneta,,14:00:00,
+Hockey,,15:00,
+Salida,,15:00:00,
+Hockey,16/08/2018,10:00:00,
+Camioneta,,10:00,"Willy, Tomi e Hindu"
+Hockey,,13:00,
+Almuerzo,,13:00:00,
+Hockey,,14:00:00,
+Camioneta,,14:00:00,
+Hockey,,17:45:00,
+Salida,,17:45:00,
+Hockey,17/08/2018,10:00:00,
+Camioneta,,10:00:00,Sole
+Hockey,,12:30:00,
+Camioneta,,12:30:00,Cruz del Sur y Cabezones
+Hockey,,13:30:00,
+Camioneta,,13:30:00,"Pepi, Kb, Deportivo"
+Hockey,,15:15:00,
+Salida,,15:15:00,
+Hockey,21/08/2018,9:30:00,
+Camioneta,,9:30:00,Rejas y Cintas
+Hockey,,10:30:00,
+Camioneta,,10:30:00,Argollitas 
+Hockey,,12:00:00,
+Camioneta,,12:00:00,Credifin y telas
+Hockey,,12:45:00,
+Almuerzo,,12:45:00,
+Hockey,,15:45,
+Camioneta,,15:45:00,
+Hockey,,16:45:00,
+Salida,,16:45:00,
+Hockey,22/08/2018,11:15:00,
+Camioneta,,11:15:00,
+Hockey,,14:45:00,
+Almuerzo,,14:45:00,
+Hockey,,15:15:00,
+Camioneta,,15:15:00,"Marisa, Lola y Encomiendas"
+Hockey,,17:00:00,
+Salida,,17:00:00,
+Hockey,23/08/2018,9:45:00,
+Camioneta,,9:45:00,Kb Gom y Atletic
+Hockey,,13:30:00,
+Almuerzo,,13:30:00,
+Hockey,,13:45:00,
+Camioneta,,13:45:00,
+Hockey,,14:45:00,
+Salida,,14:45:00,
+Hockey,24/08/2018,9:15:00,
+Camioneta,,9:15:00,Flassh
+Hockey,,13:15:00,
+Almuerzo,,13:15:00,
+Hockey,,14:15:00,
+Camioneta,,14:15:00,Tomi
+Hockey,,16:00:00,
+Salida,,16:00:00,
+Hockey,27/08/2018,8:45:00,
+Camioneta,,8:45:00,Rejas y Aqualina
+Hockey,,12:00:00,
+Almuerzo,,12:00:00,
+Hockey,,14:00:00,
+Camioneta,,14:00:00,"Encomiendas, Maya y Banners"
+Hockey,,15:45:00,
+Salida,,15:45:00,
+Hockey,28/08/2018,8:45:00,
+Camioneta,,8:45:00,"Nassau, Osvaldo Deportes, Entrega "
+Hockey,,12:15:00,
+Almuerzo,,12:15:00,
+Hockey,,15:45:00,
+Camioneta,,16:30:00,Encomiendas
+Salida,,16:30:00,
+Hockey,29/08/2018,8:15:00,
+Camioneta,,8:15:00,
+Hockey,,9:30:00,Lito
+Camioneta,,9:30:00,O-Metal y Schuster
+Hockey,,16:15:00,
+Salida,,16:15,
+Hockey,30/08/2018,9:45:00,
+Camioneta,,9:45:00,Willy y Encomiendas
+Hockey,,12:15,
+Almuerzo,,12:15:00,
+Hockey,,15:00:00,
+Camioneta,,15:00:00,
+Hockey,,16:30:00,
+SAlida,,16:30,
+Hockey,31/08/2017,12:00:00,
+Camioneta,,10:30:00,"Gavelio, Tomi y Lolita"
+Hockey,,15:15:00,
+Salida,,15:15:00,
+Hockey,03/09/2018,11:30:00,
+Camioneta,,11:30:00,
+Hockey,,12:45:00,
+Salida,,12:45:00,
+Hockey,04/09/2018,9:45:00,
+Camioneta,,9:45:00,Lito
+Hockey,,12:00:00,
+Almuerzo,,12:00:00,
+Hockey,,14:00:00,
+Camioneta,,14:15:00,
+Hockey,,15:45:00,
+Salida,,15:45:00,
+Hockey,05/09,10:30:00,
+Camioneta,,10:30:00,Buspack y Cruz del Sur
+Hockey,,11:30:00,
+Camioneta,,11:30:00,
+Hockey,,12:00:00,
+sAlida,,12:00:00,
+Hockey,06/09/2018,7:30:00,
+Camioneta,,7:30:00,Lito
+Hockey,,8:30:00,
+Camioneta,,8:45:00,Rejas
+Hockey,,14:15:00,
+Camioneta,,14:15:00,
+Hockey,,15:30:00,
+Camioneta,,15:30:00,Encomiendas
+Hockey,,16:30:00,
+Salida,,16:30,
+Hockey,07/09/2018,9:30:00,
+Camioneta,,9:30:00,
+Hockey,,12:30:00,
+Camioneta,,14:45:00,
+Hockey,,15:45:00,
+Salida,,15:45:00,
+Hockey,10/09/2018,8:45:00,
+Camioneta,,8:45:00,Rejas
+Hockey,,12:00:00,
+Camioneta,,12:00:00,
+Hockey,,12:30:00,
+Salida,,12:30:00,
+Hockey,11/09/2018,8:30:00,
+Camioneta,,8:30:00,Lito y Vivi
+Hockey,,13:00:00,
+Camioneta,,14:00:00,
+Hockey,,18:00:00,
+Salida,,18:00:00,
+Hockey,12/9/2018,10:45,
+Camioneta,,10:45:00,
+Hockey,,12:30:00,
+Salida,,12:30:00,
+Hockey,13/09/2018,9:00:00,
+Camioneta,,9:00:00,
+Hockey,,13:15:00,
+Salida,,13:15:00,
+Hockey,,10:30,
+Camioneta,,10:30:00,
+Hockey,,16:15:00,
+Salida,,16:15:00,
+Hockey,17/09/2018,10:00:00,
+Camioneta,,10:00:00,"Rejas, La Rioja y Buspack"
+Hockey,,11:30:00,
+Camioneta,,11:45:00,Cruz del Sur
+Hockey,,12:30:00,
+Salida,,12:30:00,
+Hockey,18/09/2018,12:00:00,
+Camioneta,,12:00,Buspack
+Hockey,,12:45:00,
+Salida,,12:45:00,
+Hockey,19/09/2018,10:30:00,
+Camioneta,,10:30:00,"Simko, Lito, Lola, Kb Gom, Vivi"
+Hockey,,13:30:00,
+Camioneta,,13:30:00,
+Hockey,,15:30:00,
+Camioneta,,15:30:00,
+Hockey,,16:45:00,
+Salida,,16:45:00,
+Hockey,20/09/2018,6:45:00,
+Camioneta,,6:45:00,
+Hockey,,12:30:00,
+Camioneta,,15:30:00,
+Hockey,,17:30:00,
+Salida,,17:30:00,
+Hockey,21/09/2018,10:00:00,
+Camioneta,,10:00:00,
+Hockey,,12:00:00,
+Camioneta,,14:00:00,"Willy, Tomy y Alidot"
+Hockey,,16:30:00,
+Salida,,16:30:00,
+Hockey,24/09/2018,13:45:00,
+Camioneta,,13:45:00,"Willy, Gim Tonic, Simko y Lito"
+Hockey,,17:00:00,
+Salida,,17:00:00,
+Hockey,26/09/2018,11:15:00,
+Camioneta,,11:15:00,Lolita
+Hockey,,12:15:00,
+Camioneta,,14:00:00,Encomiendas y Textil Rioja
+Hockey,,15:15,
+Salida,,15:15:00,
+Hockey,27/09/2018,9:15:00,
+Camioneta,,9:15:00,Aspiradora
+Hockey,,10:00,
+Salida,,10:00:00,
+Hockey,28/09/2018,10:30:00,
+Camioneta,,10:30:00,"DF, Osvaldo, Pablo y Cristian"
+Hockey,,13:45:00,
+Camioneta,,14:00:00,Tomi
+Hockey,,16:30:00,
+Salida,,16:30:00,
+Hockey,,11:00:00,
+Camioneta,,11:00:00,Kb Gom
+Hockey,,13:30:00,
+Salida,,15:30:00,
+Hockey,04/10/2018,7:00:00,
+Camioneta,,10:30:00,"Flassh, Rejas, Argollas y Lolita"
+Hockey,,12:30:00,
+Almuerzo,,12:30:00,
+Hockey,,13:30:00,
+Salida,,16:00:00,
+Hockey,05/10/2018,8:00:00,
+Camioneta,,8:00:00,"Ent.Domicilio, Lolita, Alidot y Gim T."
+Hockey,,14:15:00,
+Almuerzo,,14:15:00,
+Hockey,,14:30:00,
+Camioneta,,14:30:00,Fabrika
+Hockey,,15:00:00,
+Salida,,16:00:00,
+Hockey,08/10/2018,7:00:00,
+Camioneta,,8:30:00,Rejas
+Hockey,,9:00:00,
+Camioneta,,9:00:00,"Lito, Vivi y Acrilux"
+Hockey,,13:15:00,
+Almuerzo,,13:15:00,
+Hockey,,14:15:00,
+Camioneta,,15:00:00,Brio y Encomiendas
+Hockey,,16:00:00,
+Salida,,16:00:00,
+Hockey,09/10/2018,7:00:00,
+Camioneta,,11:00:00,"Jdh, Silbatos, Vivaldi y Primera Junta"
+Hockey,,16:15:00,
+Salida,,16:15:00,
+Hockey,10/10/2018,7:00:00,
+Camioneta,,10:00:00,Rejas
+Hockey,,10:30:00,
+Camioneta,,12:30:00,Lolita y Rejas
+Hockey,,14:00:00,
+Salida,,14:00,
+Hockey,11/10/2018,7:00:00,
+Camioneta,,7:30:00,Lito
+Hockey,,8:45:00,
+Camioneta,,9:30:00,"Pablo y Crisitna, Expreso, Atletic"
+Hockey,,13:45:00,
+Salida,,16:00:00,
+Hockey,16/10/2018,7:00:00,
+Camioneta,,10:00:00,"Rejas, Flassh y Credifin"
+Hockey,,11:45:00,
+Camioneta,,11:45:00,Fabrika
+Hockey,,12:15:00,
+Almuerzo,,12:30:00,
+Hockey,,13:45,
+Camioneta,,13:45:00,Viviana
+Hockey,,15:45:00,
+Salida,,16:00:00,
+Hockey,17/10/2018,7:00:00,
+Camioneta,,11:00:00,Tornillos y Cintas
+Hockey,,12:30:00,
+Almuerzo,,12:30:00,
+Hockey,,14:15:00,
+Camioneta,,14:15,Osvaldo Deportes y Reves
+Hockey,,16:30:00,
+Salida,,16:30,
+Hockey,18/10/2018,7:00:00,
+Camioneta,,9:15:00,"Simko, Acrilux, Silbatos, Mayas, Lito"
+Hockey,,12:30:00,
+Almuerzo,,12:30:00,
+Hockey,,13:30:00,
+Camioneta,,13:45:00,Willy
+Hockey,,15:15:00,
+Salida,,16:00:00,
+Hockey,19/10/2018,9:00:00,
+Camioneta,,9:00:00,Atletic y Pozzi
+Hockey,,16:00,
+Salida,,16:00:00,
+Hockey,22/10/2018,7:00,
+Camioneta,,9:00:00,"Simko, Lito, Pizarras"
+Hockey,,13:30:00,
+Salida,,13:30:00,
+Hockey,23/10/2018,7:00:00,
+Camioneta,,10:00:00,"Pelotitas Plasticas, Lito"
+Hockey,,13:00:00,
+Almuerzo,,13:00:00,
+Hockey,,14:00:00,
+Camioneta,,14:00:00,Reves + Pablo y Crisitian
+Hockey,,18:00:00,
+Salida,,18:00:00,
+Hockey,24/10/2018,7:00,
+Camioneta,,9:00:00,Sole y Viviana
+Hockey,,12:30:00,
+Almuerzo,,12:30:00,
+Hockey,,13:30:00,
+Salida,,16:00:00,
+Hockey,25/10/2018,7:00:00,
+Camioneta,,9:30:00,Tela y Rejas
+Hockey,,11:00:00,
+Almuerzo,,12:30:00,
+Hockey,,13:45:00,
+Camioneta,,13:45:00,Willy y Deportes Full
+Hockey,,16:00:00,
+Salida,,16:00:00,
+Hockey,26/10/2018,9:00:00,
+Camioneta,,12:00:00,"Alidot, Tomi, Loli y Encomiendas"
+Hockey,,15:45:00,
+Salida,,15:45:00,
+Hockey,29/10/2018,7:00,
+Camioneta,,10:30,Reves y Carlitos Schroeder
+Hockey,,13:15:00,
+Almuerzo,,13:15,
+Hockey,,13:45,
+Salida,,16:00:00,
+Hockey,30/10/2018,7:00:00,
+Camioneta,,10:30:00,Kadur y Entrega a domicilio
+Hockey,,12:30:00,
+Almuerzo,,12:30:00,
+Hockey,,13:30,
+Salida,,16:00:00,
+Hockey,31/10/2018,7:00:00,
+Camioneta,,11:00:00,Palermo
+Hockey,,14:15:00,
+Almuerzo,,14:15:00,
+Hockey,,14:45:00,
+Salida,,16:00:00,
+Hockey,01/11/2018,7:00:00,
+Almuerzo,,12:30:00,
+Hockey,,13:30:00,
+Salida,,16:00:00,
+Hockey,02/11/2018,9:00:00,
+Camioneta,,12:30:00,Canning
+Hockey,,16:00:00,
+Camioneta,,16:00:00,Tomi
+Hockey,,17:30,
+Salida,,17:30:00,
+Hockey,05/11/2018,7:00:00,
+Camioneta,,11:45,Rejas
+Hockey,,12:15:00,
+Almuerzo,,12:30:00,
+Hockey,,13:30:00,
+Camioneta,,13:30:00,Atletic y Kadur
+Hockey,,16:30:00,
+Salida,,16:30:00,
+Hockey,6/11/2018,7:00:00,
+Camioneta,,9:00:00,Gomeria
+Hockey,,10:00:00,
+Camioneta,,11:30:00,Rejas y Gomeria
+Hockey,,12:30:00,
+Almuerzo,,12:30:00,
+Hockey,,13:30:00,
+Camioneta,,13:45:00,Ferreteria y Encomiends
+Hockey,,15:45:00,
+Salida,,16:00:00,
+Hockey,07/11/2018,7:00:00,
+Almuerzo,,12:30:00,
+Hockey,,13:30:00,
+Salida,,15:30,
+Hockey,08/11/2018,7:00:00,
+Camioneta,,7:15:00,Lito
+Hockey,,8:30:00,
+Camioneta,,9:45,Rejas
+Hockey,,10:45:00,
+Camioneta,,11:15:00,Casa Osvaldo y Willy
+Hockey,,13:45:00,
+Almuerzo,,13:45:00,
+Hockey,,14:45:00,
+Camioneta,,14:45:00,
+Hockey,,16:00:00,
+SAlida,,16:00:00,
+Hockey,09/11/2018,9:30:00,
+Almuerzo,,12:30:00,
+Hockey,,13:30:00,
+Camioneta,,13:30,Alidot y Enrique
+Hockey,,16:15:00,
+SAlida,,16:15:00,
+Hockey,12/11/2018,7:00:00,
+Camioneta,,10:00:00,Kb Gom
+Hockey,,11:00:00,
+Camioneta,,11:00:00,Tomi 
+Hockey,,12:30:00,
+Almuerzo,,12:30:00,
+Hockey,,13:45:00,
+Camioneta,,14:45:00,"Encomiendas, Fabrika y Electricidad"
+Hockey,,16:15:00,
+SAlida,,16:15,
+Hockey,13/11/2018,7:00:00,
+Camioneta,,9:15:00,Canning
+Hockey,,12:15:00,
+Almuerzo,,12:15:00,
+Hockey,,13:30:00,
+Camioneta,,14:00:00,Nuñez + Brio
+Hockey,,16:00:00,
+Salida,,16:00:00,
+Hockey,14/11/2018,7:00:00,
+Camioneta,,10:30,Rejas y Xeltic
+Hockey,,13:15:00,
+Almuerzo,,13:15:00,
+Hockey,,14:15:00,
+Camioneta,,15:45:00,
+Hockey,,16:15:00,
+Salida,,16:15,
+Hockey,15/11/2018,7:00,
+Camioneta,,10:00:00,Xeltic y Eneeme
+Hockey,,13:15:00,
+Almuerzo,,13:15:00,
+Hockey,,14:30:00,
+Salida,,16:00:00,
+Hockey,16/11/2018,9:00:00,
+Camioneta,,9:00:00,Sole
+Hockey,,11:30:00,
+Camioneta,,11:45:00,"Vivi, Tomi y Braku"
+Hockey,,16:00:00,
+Salida,,16:00:00,
+Hockey,20/11/2018,7:00:00,
+Camioneta,,8:30:00,Tio Musa
+Hockey,,11:30:00,
+Camioneta,,11:30:00,Kb Gom
+Hockey,,12:30:00,
+Almuerzo,,12:30:00,
+Hockey,,13:30:00,
+Camioneta,,13:30:00,Imprenta Guemes
+Hockey,,14:00:00,
+Camioneta,,14:15:00,Lmr y Tomi
+Hockey,,17:15,
+Salida,,17:15:00,
+Hockey,21/11/2018,7:00:00,
+Camioneta,,8:00:00,Viviana
+Hockey,,13:15:00,
+Almuerzo,,13:15:00,
+Hockey,,14:45:00,
+Camioneta,,14:45:00,Gavelio
+Hockey,,16:45:00,
+Salida,,16:45,
+Hockey,23/11/2018,9:00:00,
+Camioneta,,9:00:00,Osvaldo Deportes
+Hockey,,11:15:00,
+Camioneta,,11:15:00,Dag Imprenta y Magenta
+Hockey,,14:15,
+SAlida,,14:15:00,
+Hockey,26/11/2018,7:00:00,
+Almuerzo,,12:00:00,
+Hockey,,13:00:00,
+Salida,,16:00:00,
+Hockey,,7:00,
+Almuerzo,,12:00:00,
+Hockey,,13:00:00,
+Camioneta,,13:00:00,
+Hockey,,16:00:00,
+Salida,,16:00:00,
+Hockey,28/11/2018,7:00:00,
+Camioneta,,9:15:00,Gavelio y Cristian
+Hockey,,11:15:00,
+Almuerzo,,12:00:00,
+Hockey,,13:00:00,
+Salida,,16:00:00,
+Hockey,29/11/2018,7:00:00,
+Camioneta,,9:30:00,"Rejas, Willy, Eneeme y Entregas"
+Hockey,,14:30:00,
+Camioneta,,14:30:00,
+Hockey,,17:00:00,
+Salida,,17:00:00,
+Hockey,30/11/2018,8:00:00,
+Camioneta,,9:30,Kadur
+Hockey,,11:45:00,
+Almuerzo,,11:45:00,
+Camioneta,,14:00:00,
+Hockey,,18:00:00,
+Salida,,18:00:00,
+Hockey,03/12/2018,7:00:00,
+Almuerzo,,12:30:00,
+Hockey,,13:30:00,
+Salida,,16:00:00,
+Hockey,04/12/2018,7:00:00,
+Almuerzo,,12:30:00,
+Hockey,,13:30:00,
+Camioneta,,13:45:00,Rejas
+Hockey,,14:45:00,
+Salida,,16:00:00,
+Hockey,05/12/2018,7:00:00,
+Camioneta,,9:00:00,
+Hockey,,14:00:00,
+Almuerzo,,14:00:00,
+Hockey,,15:00:00,
+Salida,,16:00:00,
+Hockey,06/12/2018,7:00:00,
+Camioneta,,9:00,
+Hockey,,9:45:00,
+Almuerzo,,12:30:00,
+Hockey,,13:30:00,
+Salida,,16:00:00,
+Hockey,07/12/2018,9:00:00,
+Camioneta,,11:00:00,
+Hockey,,12:30:00,
+Almuerzo,,12:30:00,
+Hockey,,13:30:00,
+Salida,,16:00:00,
+Hockey,10/12/2018,7:00:00,
+Camioneta,,9:30:00,
+Hockey,,10:30:00,
+Salida,,10:30:00,
+Hockey,,7:00,
+Camioneta,,7:00,Canning
+Hockey,,8:00:00,
+Camioneta,,8:30:00,"Willy, Enee, Jdh, Drial, Encomiendas"
+Hockey,,15:15:00,
+Salida,,15:15:00,
+Hockey,13/12/2018,7:00:00,
+Camioneta,,7:00:00,"Julio, Vivi, Cris, Vivi, Willy y Encom."
+Hockey,,19:30:00,
+Salida,,19:30,
+Hockey,14/12/2018,8:30:00,
+Camioneta,,8:30:00,Rejas y Dorita
+Hockey,,10:30:00,
+Almuerzo,,10:30:00,
+Camioneta,,11:00:00,"Cristian, San Martin, Tomi, Carga"
+Hockey,,15:00,
+Salida,,15:00:00,
+Hockey,17/12/2018,12:00:00,
+Camioneta,,12:00:00,Rejas y Pintura
+Hockey,,15:00:00,
+Camioneta,,15:00:00,
+Hockey,,18:00:00,
+Salida,,18:00:00,
+Hockey,18/12/2018,7:00:00,
+Camioneta,,9:00:00,"Kb Gom, Transporte"
+Hockey,,12:30:00,
+Camioneta,,12:45:00,"Gavelio, Mr Plasticos, Cris, Transp."
+Hockey,,17:45:00,
+Salida,,17:45:00,
+Hockey,19/12/2018,8:00:00,
+Camioneta,,8:00:00,"Deportes 11, Dexvida y Seal Cargas"
+Hockey,,18:00:00,
+Salida,,18:00:00,
+Hockey,21/12/2018,9:00,
+Camioneta,,9:00:00,Tomi y Kb Gom
+Hockey,,13:00,
+Almuerzo,,13:00:00,
+Hockey,,15:00:00,
+Camioneta,,15:00,Palermo y Vivi
+Hockey,,19:00:00,
+Salida,,19:00,
+Hockey,22/12/2018,9:00,
+Camioneta,,9:00:00,
+Hockey,,12:30:00,
+Salida,,12:30:00,
+Hockey,,9:00:00,
+Camioneta,,9:00:00,
+Hockey,,10:15:00,
+Almuerzo,,10:15:00,
+Hockey,,10:45:00,
+Camioneta,,10:45:00,"Cruz del Sur, Encomiendas, Alidot"
+Hockey,,19:00:00,"Huguito, Casco"
+Salida,,19:00:00,
+Hockey,27/12/2018,7:00:00,
+Camioneta,,7:00:00,
+Hockey,,7:45:00,
+Camioneta,,8:15:00,
+Hockey,,14:00:00,
+Salida,,14:00:00,
+Hockey,04/01/2019,13:00:00,
+Camioneta,,13:00:00,
+Hockey,,16:30:00,
+Salida,,16:30:00,
+Hockey,08/02/2019,8:30:00,
+Camioneta,,8:30:00,
+Hockey,,14:15:00,
+Almuerzo,,14:15:00,
+Camioneta,,15:00:00,
+Hockey,,16:00:00,
+Salida,,16:00:00,
+Hockey,11/02/2018,12:00:00,
+Camioneta,,12:00:00,
+Hockey,,16:30:00,
+Salida,,16:30:00,
+Hockey,,8:00:00,
+Camioneta,,8:00:00,
+Hockey,,16:30:00,
+Salida,,16:30:00,
+Hockey,18/02/2019,9:00:00,
+Camioneta,,9:00:00,
+Hockey,,14:15:00,
+Almuerzo,,14:15:00,
+Hockey,,14:45:00,
+Camioneta,,14:45:00,
+Hockey,,18:45:00,
+Salida,,18:45:00,
+Hockey,19/02/2019,10:00:00,
+Camioneta,,10:00:00,
+Hockey,,16:00:00,
+Salida,,16:00:00,
+Hockey,20/12/2019,9:00:00,
+Camioneta,,9:00:00,
+Hockey,,19:00:00,
+Salida,,19:00:00,
+Hockey,21/12/2019,7:30,
+Camioneta,,7:30:00,
+Hockey,,17:00:00,
+Salida,,17:00:00,
+Hockey,22/02/2019,8:00:00,
+Camioneta,,8:00:00,Soledad
+Hockey,,11:30:00,
+Salida,,11:30:00,
+Hockey,25/02/2019,9:00:00,
+Camioneta,,9:00:00,"Cris, Texcint, Beta, Simko, Encomiendas y Lito"
+Hockey,,17:00:00,
+Salida,,17:00:00,
+Hockey,,9:00:00,
+Camioneta,,9:00:00,"Brio, Entrega a Domicilio y Kadur"
+Hockey,,16:00:00,
+Salida,,16:00:00,
+Hockey,11/03/2019,8:00:00,
+Almuerzo,,12:30:00,
+Hockey,,13:00:00,
+Camioneta,,16:00:00,Cristian y Rejas
+Hockey,,18:30:00,
+Salida,,18:30:00,
