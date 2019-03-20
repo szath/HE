@@ -5,7 +5,7 @@ Hockey,,9:00,
 Almuerzo,,12:30:00,
 Hockey,,13:30:00,
 Salida,,16:00:00,
-Hockey,15/06/2017,7:00:00,
+Hockey,15/06/2018,7:00:00,
 Camioneta,,8:00:00,Cristian
 Hockey,,10:30:00,
 Camioneta,,12:00,Juan
@@ -15,7 +15,7 @@ Hockey,,14:00:00,
 Camioneta,,14:30:00,Alidot y Tomi
 Hockey,,16:45:00,
 Salida,,16:45:00,
-Hockey,18/06/2017,7:00:00,
+Hockey,18/06/2018,7:00:00,
 Camioneta,,9:00:00,rejas y kb gom
 Hockey,,10:00:00,
 Camioneta,,11:30:00,Cruz del Sur
@@ -25,7 +25,7 @@ hockey,,13:30:00,
 Camioneta,,14:00:00,kb Gom
 hockey,,16:15:00,
 Salida,,16:30:00,
-Hockey,19/06/2017,7:00:00,
+Hockey,19/06/2018,7:00:00,
 Camioneta,,8:30:00,Lito
 Hockey,,10:00:00,
 Camioneta,,11:45:00,Juan
@@ -305,7 +305,7 @@ Hockey,,15:00:00,
 Camioneta,,15:00:00,
 Hockey,,16:30:00,
 SAlida,,16:30,
-Hockey,31/08/2017,12:00:00,
+Hockey,31/08/2018,12:00:00,
 Camioneta,,10:30:00,"Gavelio, Tomi y Lolita"
 Hockey,,15:15:00,
 Salida,,15:15:00,

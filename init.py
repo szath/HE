@@ -5,13 +5,19 @@ conn = sqlite3.connect('hetest.db') #connects to the db in the working folder
 cur = conn.cursor() #creates db cursor
 
 cur.execute(
-    """create table movimientos(
+    """create table cuentaCarlitos(
+        idPago INT PRIMARY KEY,
+        monto INT
+    )""" 
+)
+
+cur.execute(
+    """create table movimientosCarlitos(
         estado TEXT,
-        dia INT,
-        mes INT,
-        año INT,
-        hora INT,
-        minuto INT,
-        destino TEXT
+        date DATETIME,
+        destino TEXT,
+        idPago INT,
+        FOREIGN KEY (idPago) REFERENCES cuentaCarlitos (idPago)
     )"""    
 )  #Creates table movimientos
+

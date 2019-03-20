@@ -1,5 +1,5 @@
 from tkinter import *
-from tkintertable import TableCanvas, TableModel
+#from tkintertable import TableCanvas, TableModel
 
 import sqlite3
 from sqlite3 import Error
