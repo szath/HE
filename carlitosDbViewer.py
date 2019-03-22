@@ -23,6 +23,9 @@ cur.execute("""SELECT * FROM movimientosCarlitos
 db = pd.DataFrame(cur)
 print(db)
 
+#Getting SQL DATA
+
+
 #Tkinter
 
 ctop = Tk()
@@ -38,24 +41,33 @@ style.configure("Treeview", background="#200200200",
 style.configure("Treeview.Heading", background="#200200200", 
                 fieldbackground="#200200200", foreground="white")
 
-menu = Menubutton(ctop,bg="#600600600",fg="grey",activebackground="#300300300", text="Menu")
+menuFrame = Frame(ctop,bg="#200200200")
+menuFrame.pack(fill="both")
+
+menu = Menubutton(menuFrame,bg="#600600600",fg="grey",activebackground="#300300300", text="File")
 filemenu = Menu(menu,tearoff = 0 )
 filemenu.add_command(label="quit", command=ctop.quit)
 menu.config(menu=filemenu)
 
+menu2 = Menubutton(menuFrame,bg="#600600600",fg="grey",activebackground="#300300300", text="Options")
+optionMenu = Menu(menu2,tearoff = 0 )
+optionMenu.add_command(label="quit", command=ctop.quit)
+menu2.config(menu=optionMenu)
+
+
 ctop.config (bg="grey")
-menu.grid(row=0, column=0, ipadx=30)
+menu.grid(row=0, column=0, ipadx=30, sticky="w")
+menu2.grid(row=0, column=1, ipadx=30, sticky="w")
 
 ctop.iconbitmap('heicon.ico')
-ctop.title("Carli")
-ctop.geometry("1000x600")
+ctop.title("Carlitos")
 
-tree = ttk.Treeview(ctop)
+tree = ttk.Treeview(menuFrame)
 
 tree.heading("#0",text="tree", anchor="w")
 
 tree.insert("", 0, "item", text="item")
-tree.grid(row=10, column=10, padx = 200)
+tree.grid(row=3, column=0, columnspan=10)
 
 
 ctop.mainloop()
