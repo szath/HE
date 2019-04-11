@@ -8,18 +8,30 @@ from sqlite3 import Error
 conn = sqlite3.connect('hetest.db') #connects to the db in the working folder
 cur = conn.cursor() #creates db cursor
 
-top = Tk()
+ctop = Tk()
+ctop.iconbitmap('heicon.ico')
+ctop.title("HE")
+ctop.geometry("400x200")
+ctop.config(bg="#200200200")
 
-opt = Menu(top, activebackground="#CCCCCCFFF", bg="#700000000", title="Carlitos", fg="#900900900", activeforeground="#000000700")
-fopt = Menu(opt, tearoff=0, bg="white", fg="black", activebackground="#B11ECCFFF", activeforeground="black")
-fopt.add_command(label="Abrir", command=None)
-fopt.add_command(label="Imprimir", command=None)
-opt.add_cascade(label="Carlitos", menu=fopt)
+menuFrame = Frame(ctop,bg="#200200200")
+menuFrame.pack(fill="both")
 
-top.iconbitmap('heicon.ico')
-top.title("Hockey Equipment")
-top.geometry("1000x600")
+menu = Menubutton(menuFrame,bg="#300300300",fg="grey",activebackground="#600600600", text="File")
+filemenu = Menu(menu,tearoff = 0 )
+filemenu.add_command(label="quit", command=ctop.quit)
+menu.config(menu=filemenu)
 
-top.configure(bg="#600600600", menu=opt)
+menu2 = Menubutton(menuFrame,bg="#300300300",fg="grey",activebackground="#600600600", text="Options" )
+optionMenu = Menu(menu2,tearoff = 0 )
+optionMenu.add_command(label="quit", command=ctop.quit)
+menu2.config(menu=optionMenu)
 
-top.mainloop()
+menu.grid(row=0, column=0, ipadx=2, sticky="w")
+menu2.grid(row=0, column=1, ipadx=2, sticky="w")
+
+#expandir workframe al maximo
+workFrame = Frame(ctop,bg="#200200200", height="4000", width="4000")
+workFrame.pack(side="left")
+
+ctop.mainloop()
