@@ -68,4 +68,13 @@ tree.insert("", 0,"item2",text="cosa")
 tree.grid(row=10, column=10, padx = 200)
 
 
-ctop.mainloop()
+ctop.mainloop()"""
+
+
+"""dataCaja = {'rec1': {'col1': 99.88, 'col2': 108.79, 'label': 'rec1'},
+       'rec2': {'col1': 99.88, 'col2': 108.79, 'label': 'rec2'}
+       }
+"""
+#TkinterTable
+#tableCaja = TableCanvas(workFrame, data=dataCaja)
+#tableCaja.show()

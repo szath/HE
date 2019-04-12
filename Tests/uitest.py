@@ -1,0 +1,3 @@
+import PySimpleGUI
+PySimpleGUI.main()
+
